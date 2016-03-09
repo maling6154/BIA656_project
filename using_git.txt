@@ -1,0 +1,20 @@
+How to use GIT
+
+clone the branch on your machine
+
+1. Open CMD
+2. Select a desired folder <test>
+3. run the following command : git clone https://github.com/maling6154/BIA656_project.git
+4. Your git repository is set up on your machine
+
+
+
+Upload files to git. To do this make sure your files are stored in the <test> folder
+1. Open CMD
+2. goto desired folder <test>
+3. run the following commands:
+	git add - A
+	git commit -m "Comments about the upload"
+	git push
+4. Enter credentials if asked.	
+	
